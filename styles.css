@@ -30,8 +30,30 @@ body {
     justify-content: center;
 }
 
-#card {
+#card1 {
     background-image: url(https://cdn.shopify.com/s/files/1/0814/0539/files/Rosewood_Africa_Map.png);
+    background-repeat: no-repeat;
+    background-position-x: 35px;
+    width: 300px;
+    height: 590px;
+    border-radius: 20px;
+    background-color: wheat;
+    box-shadow: 0 5px 40px -20px rgba;(0,0,0,.4)
+}
+
+#card2 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0814/0539/files/Hawaii_Map.png);
+    background-repeat: no-repeat;
+    background-position-x: 35px;
+    width: 300px;
+    height: 590px;
+    border-radius: 20px;
+    background-color: wheat;
+    box-shadow: 0 5px 40px -20px rgba;(0,0,0,.4)
+}
+
+#card3 {
+    background-image: url(https://cdn.shopify.com/s/files/1/0814/0539/files/Blackwood_origin_Africa.svg);
     background-repeat: no-repeat;
     background-position-x: 35px;
     width: 300px;
